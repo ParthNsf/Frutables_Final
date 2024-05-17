@@ -1,0 +1,209 @@
+{
+  "fruits": [
+    {
+      "id": "3",
+      "name": "Banana",
+      "image": "img/fruite-item-3.jpg",
+      "description": "Fresh apple",
+      "price": 2.99,
+      "type": "Organic"
+    },
+    {
+      "id": "4",
+      "name": "Orange",
+      "image": "img/fruite-item-1.jpg",
+      "description": "Fresh banana",
+      "price": 1.99,
+      "type": "Fresh"
+    },
+    {
+      "id": "5",
+      "name": "Grape",
+      "image": "img/fruite-item-5.jpg",
+      "description": "Fresh orange",
+      "price": 3.49,
+      "type": "Organic"
+    },
+    {
+      "id": "6",
+      "name": "Apple",
+      "image": "img/fruite-item-6.jpg",
+      "description": "Fresh pineapple",
+      "price": 4.79,
+      "type": "Fresh"
+    },
+    {
+      "id": "7",
+      "name": "Grape",
+      "image": "img/fruite-item-5.jpg",
+      "description": "Fresh mango",
+      "price": 6.99,
+      "type": "Organic"
+    }
+  ],
+  "groceries": [
+    {
+      "name": "Apple",
+      "description": "Fresh apple",
+      "id": "1823",
+      "price": 2.99
+    },
+    {
+      "id": "196c",
+      "name": "orange",
+      "description": "orange juice",
+      "price": 3.99
+    },
+    {
+      "id": "18fb",
+      "name": "kiwi",
+      "description": "kiwi juice",
+      "price": 1.99
+    },
+    {
+      "id": "3be9",
+      "name": "pineapple",
+      "description": "a good winter fruit",
+      "price": 4.99
+    },
+    {
+      "id": "0ea4",
+      "name": "guava",
+      "description": "healthy guava juice",
+      "price": 5.44
+    },
+    {
+      "id": "6afb",
+      "name": "jay",
+      "description": "kokiya",
+      "price": 9
+    }
+  ],
+  "userFeedBack": [
+    {
+      "id": "80fd",
+      "entername": "jay",
+      "enteremail": "jay@gmail.com",
+      "entermessage": "nice app and good discounts",
+      "rating": "2",
+      "productId": "4"
+    },
+    {
+      "id": "1ee6",
+      "entername": "anik",
+      "enteremail": "anik@gmail.com",
+      "entermessage": "done good app",
+      "rating": "4.5",
+      "productId": "4",
+      "dating": "2024-04-10T02:48:15.597Z"
+    },
+    {
+      "id": "a157",
+      "entername": "bitkhanak",
+      "enteremail": "james@gmail.com",
+      "entermessage": "nice app and good",
+      "rating": "4.5",
+      "productId": "4",
+      "dating": "2024-04-11T02:21:56.773Z"
+    },
+    {
+      "id": "818f",
+      "entername": "jay",
+      "enteremail": "akshay@gmail.com",
+      "entermessage": "nice app",
+      "rating": "5",
+      "productId": "7",
+      "dating": "2024-04-11T02:31:46.302Z"
+    },
+    {
+      "id": "06fb",
+      "entername": "akshay padaliya",
+      "enteremail": "akshay@gmail.com",
+      "entermessage": "nice webapp",
+      "rating": "5",
+      "productId": "5",
+      "dating": "2024-04-11T08:17:38.286Z"
+    },
+    {
+      "id": "9f8a",
+      "entername": "prem ",
+      "enteremail": "prem@gmail.com",
+      "entermessage": "nice web app",
+      "rating": "1",
+      "productId": "3",
+      "dating": "2024-04-15T02:24:57.610Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "3",
+      "name": "Banana",
+      "image": "img/fruite-item-3.jpg",
+      "description": "Fresh apple",
+      "price": 2.99,
+      "type": "Organic"
+    },
+    {
+      "id": "4",
+      "name": "Orange",
+      "image": "img/fruite-item-1.jpg",
+      "description": "Fresh banana",
+      "price": 1.99,
+      "type": "Fresh"
+    },
+    {
+      "id": "5",
+      "name": "Grape",
+      "image": "img/fruite-item-5.jpg",
+      "description": "Fresh orange",
+      "price": 3.49,
+      "type": "Organic"
+    },
+    {
+      "id": "6",
+      "name": "Apple",
+      "image": "img/fruite-item-6.jpg",
+      "description": "Fresh pineapple",
+      "price": 4.79,
+      "type": "Fresh"
+    },
+    {
+      "id": "7",
+      "name": "Grape",
+      "image": "img/fruite-item-5.jpg",
+      "description": "Fresh mango",
+      "price": 6.99,
+      "type": "Organic"
+    }
+  ],
+  "couponCode": [
+    {
+      "id": "c5fe",
+      "couponename": "HERO40",
+      "percentage": 40,
+      "date": "2026-06-21",
+      "createdOn": "2024-04-19"
+    },
+    {
+      "id": "baa6",
+      "couponename": "SHARE60",
+      "percentage": 60,
+      "date": "2028-09-22",
+      "createdOn": "2024-04-19"
+    },
+    {
+      "id": "ac9a",
+      "couponename": "AXIS40",
+      "percentage": 40,
+      "date": "2027-06-22",
+      "createdOn": "2024-04-20"
+    },
+    {
+      "id": "c282",
+      "couponename": "HER40",
+      "percentage": 40,
+      "date": "2022-05-21",
+      "createdOn": "2024-04-20"
+    }
+  ]
+}
